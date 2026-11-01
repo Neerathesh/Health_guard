@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "onboarded": true,
+    "name": "",
+    "age": "",
+    "blood_group": "",
+    "step_goal": 8000,
+    "water_goal": 8,
+    "location": "",
+    "sample": false
+  },
+  "contacts": [],
+  "vitals": [],
+  "logs": [],
+  "medicines": [],
+  "taken": {},
+  "water": {}
+}
